@@ -1,0 +1,4 @@
+baseURL = "https://joadelvia.io/"
+languageCode = "es-es"
+title = "Un valenciano en Sevilla"
+theme = "ananke"
