@@ -1,4 +1,4 @@
-baseURL = "https://joadelvia.io/"
+baseURL = "https://joadelvia.github.io/"
 languageCode = "es-es"
 title = "Un valenciano en Sevilla"
 theme = "beautifulhugo"
